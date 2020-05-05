@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="en" >
 
-You can use the [editor on GitHub](https://github.com/keshavsuman/keshavsuman.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<head>
+  <meta charset="UTF-8">
+  <title>Intro Text</title>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js" type="text/javascript"></script>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+  
+  
+      <link rel="stylesheet" href="css/style.css">
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+  
+</head>
 
-```markdown
-Syntax highlighted code block
+<body>
 
-# Header 1
-## Header 2
-### Header 3
+  <div class="intro-text" id="intro-text">
+				<h2>INTRO TEXT AWESOMENESS</h2>
+				<h2>Made Possible With</h2>
+				<h2>CSS ANIMATION</h2>
+				<h2>& A TINY BIT OF</h2>
+				<h2>JAVASCRIPT</h2>
+				<h2>TO INITIATE THE</h2>
+				<h2>jQuery LETTERING.js PLUGIN</h2>
+				<h2>REFRESH TO SEE IT AGAIN...</h2>
+			</div>
+  <script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/lettering.js/0.6.1/jquery.lettering.min.js'></script>
 
-- Bulleted
-- List
+  
 
-1. Numbered
-2. List
+    <script  src="js/index.js"></script>
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+</body>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/keshavsuman/keshavsuman.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</html>
